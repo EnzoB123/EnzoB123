@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoB123&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light]([github-snake.svg](https://github.com/EnzoB123/EnzoB123/blob/output/github-contribution-grid-snake.svg)#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/EnzoB123/EnzoB123/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
