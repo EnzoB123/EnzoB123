@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoB123&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoB123&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoB123&langs_count=8&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoB123&langs_count=8&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Snake Light](https://github.com/EnzoB123/EnzoB123/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/EnzoB123/EnzoB123/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
