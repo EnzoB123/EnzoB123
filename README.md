@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/smJT1HI.jpeg)](https://github.com/EnzoB123)
+[![MasterHead](https://imgur.com/a/itIbu3m)](https://github.com/EnzoB123)
 
 ### Hi there 👋
 
